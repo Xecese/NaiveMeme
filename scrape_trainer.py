@@ -1,8 +1,5 @@
 import praw
-import pickle
 import json
-
-
 
 if __name__ == "__main__":
     r = praw.Reddit('NaiveBayes Meme Classifier Scraper')
